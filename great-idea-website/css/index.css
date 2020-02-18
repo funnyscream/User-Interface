@@ -132,7 +132,7 @@ body {
 
 .top {
 	display: inline-block;
-	width: 100%;
+	width: 50%;
 	margin: 2%;
 }
 
@@ -150,7 +150,7 @@ body {
 
 .bottom {
 	display: inline-block;
-	width: 100%;
+	width: 50%;
 	margin: 2%;
 }
 
